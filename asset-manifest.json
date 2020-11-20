@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/skyhawk/static/js/main.f6338a90.chunk.js",
+    "main.js.map": "/skyhawk/static/js/main.f6338a90.chunk.js.map",
+    "runtime-main.js": "/skyhawk/static/js/runtime-main.ef012e22.js",
+    "runtime-main.js.map": "/skyhawk/static/js/runtime-main.ef012e22.js.map",
+    "static/css/2.b145d9db.chunk.css": "/skyhawk/static/css/2.b145d9db.chunk.css",
+    "static/js/2.38d438e0.chunk.js": "/skyhawk/static/js/2.38d438e0.chunk.js",
+    "static/js/2.38d438e0.chunk.js.map": "/skyhawk/static/js/2.38d438e0.chunk.js.map",
+    "index.html": "/skyhawk/index.html",
+    "precache-manifest.eff094ca72b2a95b9dff4669421ce78c.js": "/skyhawk/precache-manifest.eff094ca72b2a95b9dff4669421ce78c.js",
+    "service-worker.js": "/skyhawk/service-worker.js",
+    "static/css/2.b145d9db.chunk.css.map": "/skyhawk/static/css/2.b145d9db.chunk.css.map",
+    "static/js/2.38d438e0.chunk.js.LICENSE.txt": "/skyhawk/static/js/2.38d438e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef012e22.js",
+    "static/css/2.b145d9db.chunk.css",
+    "static/js/2.38d438e0.chunk.js",
+    "static/js/main.f6338a90.chunk.js"
+  ]
+}
